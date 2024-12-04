@@ -56,6 +56,7 @@ plt.grid(True)
 
 # Save and close the plot
 plt.tight_layout()
+plt.show()
 plt.savefig('./data/acceleration_comparison.png', dpi=300)
 plt.close()
 

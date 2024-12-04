@@ -1,0 +1,21 @@
+Name,Three letter code,One letter code,Polarization,ChemicalFormula,MolarMass,H,C,N,O,S
+Alanine,Ala,A,non-polar,C3H7NO2,89.09,7,3,1,2,0
+Arginine,Arg,R,positive,C6H14N4O2,174.2,14,6,4,2,0
+Asparagine,Asn,N,polar,C4H8N2O3,132.12,8,4,2,3,0
+Aspartic acid,Asp,D,negative,C4H7NO4,133.1,7,4,1,4,0
+Cysteine,Cys,C,polar,C3H7NO2S,121.16,7,3,1,2,1
+Glutamic acid,Glu,E,negative,C5H9NO4,147.13,9,5,1,4,0
+Glutamine,Gln,Q,polar,C5H10N2O3,146.14,10,5,2,3,0
+Glycine,Gly,G,non-polar,C2H5NO2,75.07,5,2,1,2,0
+Histidine,His,H,positive,C6H9N3O2,155.15,9,6,3,2,0
+Isoleucine,Ile,I,non-polar,C6H13NO2,131.17,13,6,1,2,0
+Leucine,Leu,L,non-polar,C6H13NO2,131.17,13,6,1,2,0
+Lysine,Lys,K,positive,C6H14N2O2,146.19,14,6,2,2,0
+Methionine,Met,M,polar,C5H11NO2S,149.21,11,5,1,2,1
+Phenylalanine,Phe,F,aromatic,C9H11NO2,165.19,11,9,1,2,0
+Proline,Pro,P,non-polar,C5H9NO2,115.13,9,5,1,2,0
+Serine,Ser,S,polar,C3H7NO3,105.09,7,3,1,3,0
+Threonine,Thr,T,polar,C4H9NO3,119.12,9,4,1,3,0
+Tryptophan,Trp,W,aromatic,C11H12N2O2,204.22,12,11,2,2,0
+Tyrosine,Tyr,Y,aromatic,C9H11NO3,181.19,11,9,1,3,0
+Valine,Val,V,non-polar,C5H11NO2,117.15,11,5,1,2,0

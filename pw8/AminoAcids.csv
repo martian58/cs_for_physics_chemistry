@@ -1,0 +1,21 @@
+Name,Three letter code,One letter code,Polarization
+Alanine,Ala,A,non-polar
+Arginine,Arg,R,positive
+Asparagine,Asn,N,polar
+Aspartic acid,Asp,D,negative
+Cysteine,Cys,C,polar
+Glutamic acid,Glu,E,negative
+Glutamine,Gln,Q,polar
+Glycine,Gly,G,non-polar
+Histidine,His,H,positive
+Isoleucine,Ile,I,non-polar
+Leucine,Leu,L,non-polar
+Lysine,Lys,K,positive
+Methionine,Met,M,polar
+Phenylalanine,Phe,F,aromatic
+Proline,Pro,P,non-polar
+Serine,Ser,S,polar
+Threonine,Thr,T,polar
+Tryptophan,Trp,W,aromatic
+Tyrosine,Tyr,Y,aromatic
+Valine,Val,V,non-polar
